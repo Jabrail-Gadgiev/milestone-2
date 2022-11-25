@@ -1,0 +1,28 @@
+
+ .header {
+    background-color: rgb(205, 158, 125);
+ 
+}
+.col-md-3, .text-end, .btn, .btn-outline-light, .me-2 {
+    color: #594545;
+     border-color: #594545;
+ }
+  .btn-outline-primary:hover{
+     color: #594545; 
+     
+ }
+ .btn, .btn-outline, .me-2:hover::after{
+     color: #6e5050;
+     border-color: #594545;
+ }
+ .btn:hover{
+     background-color:#9E7676;
+ }
+
+.logo {
+    color: #594545;
+    font-weight: 800;
+    font-size: 30px;
+    justify-content: left;
+    padding: 0px 30px 0px 30px; 
+}
