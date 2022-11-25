@@ -67,3 +67,37 @@ body {
 .searchbar {
   background-color: #815B5B;
 }
+
+.heroHeader {
+  color: #594545;
+  font-size: 5rem;
+  font-weight: 600;
+}
+
+.heroText {
+  color: #746767;
+  margin-top: 10rem;
+}
+
+.heroImage {
+  margin-top: 5rem;
+}
+
+.heroBtn {
+  font-size: 1.2rem;
+}
+
+.btn-secondary {
+  border-color: #815B5B;
+  color: #815B5B;
+  background-color: #FFF8EA;
+}
+
+.btn-secondary:hover {
+  color: #815B5B;
+  background-color: #FFF8EA;
+}
+
+.container {
+  height: 100vh;
+}
